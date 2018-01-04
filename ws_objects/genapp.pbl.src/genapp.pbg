@@ -11,6 +11,7 @@
  "s_1.srs" "genapp.pbl";
  "uo_1.sru" "genapp.pbl";
  "uo_2.sru" "genapp.pbl";
+ "uo_add.sru" "genapp.pbl";
  "w_genapp_about.srw" "genapp.pbl";
  "w_genapp_about2.srw" "genapp.pbl";
  "w_genapp_main.srw" "genapp.pbl";
