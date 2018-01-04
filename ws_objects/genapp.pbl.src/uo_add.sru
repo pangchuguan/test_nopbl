@@ -9,7 +9,7 @@ end type
 global uo_add uo_add
 
 type variables
-//
+//234234
 end variables
 on uo_add.create
 call super::create
