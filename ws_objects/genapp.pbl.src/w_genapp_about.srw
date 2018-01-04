@@ -50,8 +50,9 @@ destroy(this.st_copyright)
 end on
 
 type cb_2 from commandbutton within w_genapp_about
+integer x = 434
 integer y = 492
-integer width = 777
+integer width = 343
 integer height = 92
 integer taborder = 30
 integer textsize = -8
