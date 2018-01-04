@@ -13,7 +13,7 @@ forward prototypes
 public function string get_info ()
 end prototypes
 
-public function string get_info ();return "Appeon Info 112266"
+public function string get_info ();return "Appeon Info 112288"
 end function
 
 on n_assembly.create
